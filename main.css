@@ -1,0 +1,14 @@
+h1 {
+    font-size: 2rem;
+    color: #443a59;
+}
+
+nav ul li {
+    list-style-type: none;
+}
+
+footer {
+    background-color: #f2f2f2;
+    padding: 5%;
+    text-align: center;
+}
